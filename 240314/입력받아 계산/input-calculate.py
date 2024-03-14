@@ -1,3 +1,3 @@
-a = input()
+a = int(input())
 
-print(f"A is {a}")
+print(a)

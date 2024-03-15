@@ -1,4 +1,4 @@
-a,b = input().split('')
+a,b = input().split()
 
 a = int(a) + 8
 b = int(b) * 3

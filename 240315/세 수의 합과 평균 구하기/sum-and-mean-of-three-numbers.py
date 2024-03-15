@@ -6,4 +6,4 @@ c = int(c)
 
 arr = [a,b,c]
 
-print(sum(arr), sum(arr)/len(arr))
+print(sum(arr), sum(arr)/len(arr), sep="\n")

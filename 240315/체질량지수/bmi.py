@@ -1,7 +1,7 @@
 a,b = input().split()
 
-a = int(a)
-b= int(b) ** 100
+a = int(a)**2
+b= int(b) * (100**2)
 
 print(b//a)
 if b//a > 25:
